@@ -14,7 +14,7 @@ from pathlib import Path
 import os
 
 
-ALLOWED_HOSTS = ['.onrender.com']
+ALLOWED_HOSTS = ['.onrender.com', 'www.cleosdeco.com', 'cleosdeco.com']
 
 
 
