@@ -53,4 +53,16 @@ eb
 
 find . -name "__pycache__" -type d -exec rm -r {} + && find . -name "*.pyc" -type f -delete
 
+git clone https://Geronimo1975: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@github.com/
 
+
+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
+
+git remote add origin https://github.com/<USERNAME>/<REPO_NAME>.git
+
+git pull --rebase origin main
+
+
+
+git branch -M main
+git push -u origin main
